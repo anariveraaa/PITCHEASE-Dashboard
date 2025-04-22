@@ -9,9 +9,8 @@ The system includes:
 
 Together, these tools allow teams to make smarter training and game-day decisions — with the ultimate goal of improving performance, reducing injury, and winning more games.
 
-# PITCHEASE Dashboard
-
-🔗 [Click here to launch the live dashboard](https://anariveraaa-pitchease-dashboard.streamlit.app)
+### 🚀 Launch the App  
+[Click here to open the interactive PITCHEASE Dashboard](https://pitchease-dashboard.streamlit.app)
 
 An interactive fatigue monitoring dashboard for NCAA pitchers powered by **PITCHEASE**.
 
