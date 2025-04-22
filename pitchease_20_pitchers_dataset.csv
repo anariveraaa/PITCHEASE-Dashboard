@@ -1,0 +1,21 @@
+Pitcher,Pitches_Thrown,BB_per_9,K_per_9,Pitches_Per_Inning,RPE,Torque,HRV,Fatigue_Flag
+Pitcher 1,94,2.0,9.0,17.0,7.65,35.3,71.5,Moderate
+Pitcher 2,87,3.7,9.3,16.9,7.9,36.13,70.34,Moderate
+Pitcher 3,83,4.4,9.5,16.8,8.0,36.51,69.88,Moderate
+Pitcher 4,88,3.1,9.8,17.3,7.83,36.14,70.64,Moderate
+Pitcher 5,85,4.0,10.4,17.9,7.99,36.8,69.83,Moderate
+Pitcher 6,94,1.9,11.0,15.3,7.55,36.26,72.08,Moderate
+Pitcher 7,77,4.3,10.0,17.8,8.04,36.72,69.65,Moderate
+Pitcher 8,91,3.2,8.8,14.1,7.69,35.68,71.53,Moderate
+Pitcher 9,89,4.1,9.9,15.9,7.91,36.59,70.36,Moderate
+Pitcher 10,99,3.1,9.6,16.3,7.78,36.04,70.94,Moderate
+Pitcher 11,77,3.3,9.4,14.3,7.71,36.02,71.4,Moderate
+Pitcher 12,87,4.2,8.5,14.9,7.88,35.93,70.59,Moderate
+Pitcher 13,90,2.0,8.7,17.5,7.67,35.15,71.35,Moderate
+Pitcher 14,82,4.5,9.6,17.7,8.06,36.6,69.54,Moderate
+Pitcher 15,76,2.0,9.9,14.6,7.53,35.75,72.22,Moderate
+Pitcher 16,94,1.8,9.8,17.6,7.65,35.62,71.46,Moderate
+Pitcher 17,92,2.1,11.5,16.2,7.63,36.59,71.67,Moderate
+Pitcher 18,77,3.0,9.7,14.5,7.67,36.05,71.55,Moderate
+Pitcher 19,81,3.8,11.2,17.9,7.96,37.12,69.97,Moderate
+Pitcher 20,94,3.4,8.3,16.2,7.82,35.51,70.76,Moderate
