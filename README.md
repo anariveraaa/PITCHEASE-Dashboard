@@ -11,7 +11,7 @@ Together, these tools allow teams to make smarter training and game-day decision
 
 # PITCHEASE Dashboard
 
-[![Streamlit App](https://img.shields.io/badge/Launch-Dashboard-success?logo=streamlit)](https://anariveraaa-pitchease-dashboard.streamlit.app)
+🔗 [Click here to launch the live dashboard](https://anariveraaa-pitchease-dashboard.streamlit.app)
 
 An interactive fatigue monitoring dashboard for NCAA pitchers powered by **PITCHEASE**.
 
